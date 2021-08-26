@@ -18,7 +18,7 @@ class BaseApiService {
 class AuthenticationApiService extends BaseApiService {
 
   AuthenticationApiService() {
-    super("http:google.com");
+    super("http://google.com");
   }
 
   @Override
